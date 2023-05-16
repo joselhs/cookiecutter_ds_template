@@ -1,4 +1,4 @@
-# Data Science Project Template
+# {{ cookiecutter.project_name }}
 
 ## Index
 - [Quick Start](#quick_start)
